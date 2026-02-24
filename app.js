@@ -1,7 +1,8 @@
 
 const FUNDS_URL = 'funds.json';
 // Sätt denna till din Apps Script-proxy URL (se 'gas_proxy_code.gs'). Lämna tom för att bara visa lokala siffror.
-const PROXY_BASE_URL = '';
+
+const PROXY_BASE_URL = 'DIN_WEB_APP_URL_HÄR';
 
 const state = { funds: [], filtered: [] };
 
