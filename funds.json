@@ -1,0 +1,310 @@
+[
+  {
+    "id": "handelsbanken-hallbar-energi-a1",
+    "namn": "Handelsbanken Hållbar Energi A1",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,27 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "11,6 %",
+    "utv_snitt_5ar": "−2,3 %",
+    "hallbarhetsrisk": "22 (Medel)",
+    "perf": {
+      "1m": 3.54,
+      "3m": 11.83,
+      "1y": 42.55,
+      "2y": null,
+      "3y": -6.61
+    },
+    "kallor": [
+      {
+        "namn": "ICA Banken",
+        "url": "https://www.icabanken.se/spara/fondlista/fondinformation/handelsbanken-hallbar-energi-a1-sek/",
+        "ref": "turn1search6"
+      }
+    ],
+    "live": {
+      "typ": "fm",
+      "url": "https://fondmarknaden.se/Fonder/Fondutveckling/16012.aspx"
+    }
+  },
+  {
+    "id": "bgf-natural-resources-a2",
+    "namn": "BlackRock - Natural Resources Growth & Income Fund A2",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,34 %",
+    "risk": "Hög",
+    "utv_i_ar": "15,7 %",
+    "utv_snitt_5ar": "15,9 %",
+    "hallbarhetsrisk": "28 (Medel)",
+    "perf": {
+      "1m": 5.62,
+      "3m": 19.03,
+      "1y": 16.91,
+      "2y": null,
+      "3y": 16.4
+    },
+    "kallor": [
+      {
+        "namn": "Avanza",
+        "url": "https://www.avanza.se/fonder/om-fonden.html/316507/bgf-natural-resources-gr---inc-a2-usd",
+        "ref": "turn2search51"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU0612318385"
+    }
+  },
+  {
+    "id": "bgf-sustainable-energy-a2",
+    "namn": "BlackRock - Sustainable Energy A2",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,36 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "10,5 %",
+    "utv_snitt_5ar": "8,5 %",
+    "hallbarhetsrisk": "18 (Låg)",
+    "perf": {
+      "1m": 8.22,
+      "3m": 13.67,
+      "1y": 51.61,
+      "2y": null,
+      "3y": 8.82
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=LU1822773807:EUR",
+        "ref": "turn2search20"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU1822773807"
+    }
+  },
+  {
+    "id": "bgf-world-energy-a2",
+    "namn": "BlackRock - World Energy A2",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,36 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "18,0 %",
+    "utv_snitt_5ar": "21,3 %",
+    "hallbarhetsrisk": "34 (Hög)",
+    "perf": {
+      "1m": 13.49,
+      "3m": 14.44,
+      "1y": 15.85,
+      "2y": null,
+      "3y": 7.15
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=LU0122376428:USD",
+        "ref": "turn2search38"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU0122376428"
+    }
+  },
+  {
+    "id": "bgf-world-gold-a2",
+    "namn": "BlackRock - World Gold A2",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,36 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "17,2 %",
+    "utv_snitt_5ar": "27,1 %",
+    "hallbarhetsrisk": "25 (Medel)",
+    "perf": {
+      "1m": 4.47,
+      "3m": 29.69,
+      "1y": 134.2,
+      "2y": null,
+      "3y": 49.07
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=LU0055631609:USD",
+        "ref": "turn2search56"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU0055631609"
+    }
+  },
+  {
+    "id": "bgf-world-mining-a2",
+    "namn": "BlackRock - World Mining A2",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,36 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "17,6 %",
+    "utv_snitt_5ar": "15,7 %",
+    "hallbarhetsrisk": "26 (Medel)",
+    "perf": {
+      "1m": 5.23,
+      "3m": 29.96,
+      "1y": 74.29,
+      "2y": null,
+      "3y": 14.94
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=lu0075056555:usd",
+        "ref": "turn2search26"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU0075056555"
+    }
+  },
+  {
+    "id": "cpr-global-gold-mines-a2",
+    "namn": "CPR Invest Global Gold Mines A2",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,52 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "17,7 %",
+    "utv_snitt_5ar": "29,2 %",
+    "hallbarhetsrisk": "25 (Medel)",
+    "perf": {
+      "1m": 22.05,
+      "3m": 49.63,
+      "1y": 159.47,
+      "2y": null,
+      "3y": 45.34
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=LU1989766446:USD",
+        "ref": "turn2search32"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU1989766446"
+    }
+  },
+  {
+    "id": "franklin-natural-resources-a",
+    "namn": "Franklin Natural Resources Fund A",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,57 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "16,1 %",
+    "utv_snitt_5ar": "20,6 %",
+    "hallbarhetsrisk": "29 (Medel)",
+    "perf": {
+      "1m": 12.29,
+      "3m": 21.65,
+      "1y": 41.94,
+      "2y": null,
+      "3y": 12.85
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=FRNRX",
+        "ref": "turn2search47"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "FRNRX"
+    }
+  },
+  {
+    "id": "allianz-global-metals-mining-a",
+    "namn": "Allianz Global Metals and Mining A",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,58 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "18,5 %",
+    "utv_snitt_5ar": "16,9 %",
+    "hallbarhetsrisk": "24 (Medel)",
+    "perf": {
+      "1m": 6.77,
+      "3m": 30.74,
+      "1y": 62.89,
+      "2y": null,
+      "3y": 119.25
+    },
+    "kallor": [
+      {
+        "namn": "Fondmarknaden.se",
+        "url": "https://fondmarknaden.se/Fonder/Fondoversikt/11209.aspx",
+        "ref": "turn2search12"
+      }
+    ],
+    "live": {
+      "typ": "fm",
+      "url": "https://fondmarknaden.se/Fonder/Fondoversikt/11209.aspx"
+    }
+  },
+  {
+    "id": "baring-global-resources-a",
+    "namn": "Baring Global Resources A",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,60 %",
+    "risk": "Hög",
+    "utv_i_ar": "15,9 %",
+    "utv_snitt_5ar": "14,3 %",
+    "hallbarhetsrisk": "27 (Medel)",
+    "perf": {
+      "1m": 6.9,
+      "3m": 20.25,
+      "1y": 28.32,
+      "2y": null,
+      "3y": 7.71
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=IE0000931182:USD",
+        "ref": "turn2search14"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "IE0000931182"
+    }
+  },
+  {
+    "id": "pictet-timber-r",
+    "namn": "Pictet Timber R",
+    "kategori": "Råvaror och energi",
+    "avgift": "0,62 %",
+    "risk": "Mycket hög",
+    "utv_i_ar": "8,5 %",
+    "utv_snitt_5ar": "1,1 %",
+    "hallbarhetsrisk": "19 (Låg)",
+    "perf": {
+      "1m": 4.05,
+      "3m": 16.47,
+      "1y": -5.56,
+      "2y": null,
+      "3y": -1.94
+    },
+    "kallor": [
+      {
+        "namn": "FT.com",
+        "url": "https://markets.ft.com/data/funds/tearsheet/performance?s=LU0340558583:USD",
+        "ref": "turn2search71"
+      }
+    ],
+    "live": {
+      "typ": "ft",
+      "isin": "LU0340558583"
+    }
+  }
+]

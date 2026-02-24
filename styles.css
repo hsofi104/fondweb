@@ -1,0 +1,25 @@
+
+:root{
+  --bg:#0f172a; --card:#111827; --muted:#9ca3af; --text:#e5e7eb; --accent:#38bdf8; --good:#22c55e; --bad:#ef4444;
+}
+*{box-sizing:border-box}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; margin:0; background:var(--bg); color:var(--text)}
+header{padding:24px 20px; border-bottom:1px solid #1f2937}
+header h1{margin:0 0 6px 0}
+header p{margin:6px 0 12px 0}
+.muted{color:var(--muted)}
+.controls{display:flex; gap:8px; align-items:center}
+#search{flex:1; padding:10px 12px; border-radius:8px; border:1px solid #374151; background:#0b1220; color:var(--text)}
+#refreshBtn{padding:10px 14px; border:1px solid #374151; background:#0b1220; color:var(--accent); border-radius:8px; cursor:pointer}
+#refreshBtn:hover{background:#0f172a}
+main{padding:20px}
+#fundTable{width:100%; border-collapse:collapse; background:var(--card); border-radius:12px; overflow:hidden}
+#fundTable thead{background:#0b1220;}
+#fundTable th,#fundTable td{padding:10px 12px; border-bottom:1px solid #1f2937; text-align:left; vertical-align:middle}
+#fundTable td.num{text-align:right}
+.badge{padding:2px 8px; border-radius:999px; font-size:12px; border:1px solid #374151; color:var(--muted)}
+.val{font-variant-numeric:tabular-nums}
+.val.good{color:var(--good)}
+.val.bad{color:var(--bad)}
+.source a{color:var(--accent); text-decoration:none}
+footer{padding:20px; color:var(--muted); text-align:center; border-top:1px solid #1f2937}

@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fonder – Realtidsvy</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Fonder – Realtidsvy</h1>
+    <p>Uppdaterad information för dina utvalda fonder. Data hämtas från källor per fond. <span class="muted">Obs: Olika andelsklasser/valutor kan förekomma.</span></p>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Sök fond, kategori eller risk…" />
+      <button id="refreshBtn">Uppdatera nu</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="summary">
+      <table id="fundTable">
+        <thead>
+          <tr>
+            <th>Fond</th>
+            <th>Kategori</th>
+            <th>Avgift</th>
+            <th>Risk</th>
+            <th>Utv. i år</th>
+            <th>Utv. snitt 5 år</th>
+            <th>Hållbarhetsrisk</th>
+            <th>1 m</th>
+            <th>3 m</th>
+            <th>1 år</th>
+            <th>2 år</th>
+            <th>3 år</th>
+            <th>Källa</th>
+          </tr>
+        </thead>
+        <tbody id="fundTbody"></tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Sofia Hård – Realtidsvy. Skapad av M365 Copilot.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
